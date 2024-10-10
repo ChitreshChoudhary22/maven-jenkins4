@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>This is my First Java Project for Arcgate Technology.</h1>
-    <p>I know you will not do practice.</p>
+    <h1>This is my First Java Project for Software team.</h1>
+    <p>Thank you very much for this opportunity!.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
